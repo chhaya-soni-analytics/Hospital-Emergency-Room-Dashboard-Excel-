@@ -74,7 +74,7 @@ The dashboard helps healthcare professionals and administrators monitor emergenc
 
 ## 🛠 Tools & Techniques Used
 
-* Microsoft Excel / Power BI
+* Microsoft Excel
 * Pivot Tables & Charts
 * Data Cleaning & Transformation
 * Interactive Filters / Slicers
